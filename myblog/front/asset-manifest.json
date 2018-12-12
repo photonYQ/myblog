@@ -1,0 +1,10 @@
+{
+  "/umi.css": "/umi.css",
+  "/umi.js": "/umi.js",
+  "/index.html": "/index.html",
+  "/icons/icon.jpeg": "/icons/icon.jpeg",
+  "/manifest.json": "/manifest.json",
+  "/pwacompat.min.js": "/pwacompat.min.js",
+  "/precache-manifest.89dc441c57ba2cd74f013deab1dbc80e.js": "/precache-manifest.89dc441c57ba2cd74f013deab1dbc80e.js",
+  "/service-worker.js": "/service-worker.js"
+}
